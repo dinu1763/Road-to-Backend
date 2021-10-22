@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jon Doe",
+      "age": 30,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "age": 25,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Bob Taylor",
+      "age": 45,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Dinesh",
+      "age": 27,
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "",
+      "age": "20"
+    },
+    {
+      "id": "132",
+      "user_name": "asdf",
+      "age": "23"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": "1756",
+      "name": "Tread",
+      "price": "1700"
+    }
+  ]
+}
